@@ -263,7 +263,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
-          src="https://fontawesome.com/icons/t-rex?f=duotone&s=solid"
+          src="/"
           alt="<42KL logo placeholder>"
           width={180}
           height={38}
